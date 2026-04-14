@@ -77,6 +77,6 @@ Then use the menu to:
 ## Notes / known limitations
 
 - The UI is **console-driven** (menu in terminal) while images are displayed via **OpenCV windows**.
-- Some naming in CMake (`project(projekt2_opencv)` / executable `projekt5`) doesn’t match the repo name—feel free to rename for clarity.
+- Some naming in CMake (`project(projekt2_opencv)` / executable `projekt5`) doesn’t match the repo name - change it yourself
 - Input/output handling is primarily designed for interactive local use.
 
